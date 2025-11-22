@@ -38,7 +38,7 @@ Please make sure to:
 
 ## 📫 Get in Touch
 
-- **Website**: [aadish.dev](https://aadish.dev)
+- **Email**: [asdev.feedback@gmail.com](mailto:asdev.feedback@gmail.com)
 - **GitHub**: [@ASDev-Official](https://github.com/ASDev-Official)
 
 ## 📄 License
@@ -47,6 +47,4 @@ Unless otherwise specified, projects under this organization are licensed under 
 
 ---
 
-<div align="center">
-Made with ❤️ by ASDev
 </div>

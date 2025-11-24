@@ -10,7 +10,7 @@
 
 ## About Us
 
-ASDev is a software development organization focused on building innovative and open-source solutions. We're passionate about creating quality software and contributing to the developer community.
+ASDev is the organization of @aadishsamir123. I'm passionate about creating quality software and contributing to the developer community. Check out my GitHub Profile: @aadishsamir123
 
 Visit our website: **[aadish.dev](https://aadish.dev)**
 

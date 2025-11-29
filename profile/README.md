@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-aadish.dev-blue?style=flat-square)](https://aadish.dev)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-ASDev--Official-181717?style=flat-square&logo=github)](https://github.com/ASDev-Official)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](../LICENSE)
 
 </div>
 
